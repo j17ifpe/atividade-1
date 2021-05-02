@@ -1,0 +1,51 @@
+*{
+    justify-content: center;
+    }
+
+
+ body {
+        display: flex;
+        align-items: center;
+        justify-content:center;
+        min-height: 100vh;
+        background: #2e2e2e;
+        font-family: sans-serif;
+       }
+section{
+    
+        background: #f2657a;
+        padding: 30px  15px;
+        border-radius: 10px;
+        box-shadow:  5px  5px   15px;
+        max-width: 90vh;
+        }
+
+section h1 {
+            padding: 40px  25px;
+            text-align: center;
+            color: #8e2de2;
+            }
+
+.subtitulo{
+     font-size: 1.5em;
+     font-family: sans-serif;
+}
+p{
+ 
+ font-weight: 30;
+ font-size: 1.2em;
+
+}
+#tipos{
+  border:solid 2px blueviolet ;
+
+}
+ a[href="https://youtu.be/jRZpss8bWKk"]{
+  text-decoration-line: overline;
+  align-items: center;
+  justify-content:center;
+  color: blue;
+}
+
+
+
